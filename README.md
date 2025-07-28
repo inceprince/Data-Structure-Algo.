@@ -60,6 +60,7 @@ Got advice, ideas, or want to geek out over recursion with me? I’d love to con
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/prince-singh-73450a2a3/)
 * 📽 [Twitter / X](https://x.com/prin4382)
+* - [LeetCode](https://leetcode.com/u/PRINCE9221/)
 
 ---
 
