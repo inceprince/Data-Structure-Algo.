@@ -38,10 +38,10 @@ I’ll keep updating this repo as I go — so feel free to explore, revisit, and
 
 ## 🎯 My Goals
 
-- Crack coding rounds in TCS NQT, Infosys, and top MNCs 💼
+- Crack coding rounds  💼
 - Build solid logic-building skills 🧠
 - Understand DSA concepts deeply with Java 🔍
-- Practice 300+ quality problems 🏋️‍♂️
+- Practice quality problems 🏋️‍♂️
 
 ---
 
